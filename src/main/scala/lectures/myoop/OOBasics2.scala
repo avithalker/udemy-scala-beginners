@@ -6,6 +6,7 @@ object OOBasics2  extends  App {
   val  person2 = new Person()
   println(person)
   println(person.x)
+  println(person.x)
   println(person.greet("ron"))
 }
 
